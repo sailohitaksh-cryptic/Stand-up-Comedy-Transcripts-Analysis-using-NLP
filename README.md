@@ -32,4 +32,4 @@ Once you have installed the dependencies, clone this repository to your local ma
 The data used in this project consists of transcripts from various stand-up comedians, which can be found in the data directory. The transcripts were scraped from Scraps From The Loft and IMDb.
 
 ### Conclusion
-This project demonstrates how natural language processing techniques can be used to analyze text data and generate new text. We hope this serves as a useful resource for those interested in text analysis and generation.
+This project demonstrates how natural language processing techniques can be used to analyze text data and generate new text. I hope this serves as a useful resource for those interested in text analysis and generation.
