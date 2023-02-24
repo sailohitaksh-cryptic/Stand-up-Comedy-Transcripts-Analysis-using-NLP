@@ -20,7 +20,7 @@ To run these notebooks on your local machine, you will need to install the follo
 * Jupyter Notebook
 * Pandas
 * NLTK
-* * TextBlob
+* TextBlob
 * Gensim
 * PyLDAvis
 * Wordcloud
