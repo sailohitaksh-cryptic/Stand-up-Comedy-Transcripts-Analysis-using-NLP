@@ -3,7 +3,7 @@
 This project involves analyzing transcripts from various stand-up comedians and identifying similarities and differences in their style of comedy. We will also be exploring ways to generate new text based on the analyzed data.
 
 ### Notebooks
-1. Data Cleaning: In this notebook, we will clean and preprocess the data to prepare it for further analysis.
+1. [Data Cleaning](https://github.com/sailohitaksh-cryptic/Stand-up-Comedy-Transcripts-Analysis-using-NLP/blob/main/NLP%20in%20Python%202.ipynb): In this notebook, we will clean and preprocess the data to prepare it for further analysis.
 
 2. Exploratory Data Analysis: In this notebook, we will perform exploratory data analysis to find patterns and insights in the data.
 
