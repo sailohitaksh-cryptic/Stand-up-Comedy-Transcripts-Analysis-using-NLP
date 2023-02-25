@@ -1,4 +1,4 @@
-# Stand-up-Comedy-Transcripts-Analysis-using-NLP
+# Stand-up Comedy Transcripts Analysis using NLP
 
 This project involves analyzing transcripts from various stand-up comedians and identifying similarities and differences in their style of comedy. We will also be exploring ways to generate new text based on the analyzed data.
 
